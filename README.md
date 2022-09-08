@@ -2,4 +2,4 @@
 
 ## Rainey Aberle
 
-## Email: raineyaberle@u.boisestate.edu
+Email: [raineyaberle@u.boisestate.edu](mailto:raineyaberle@u.boisestate.edu)
