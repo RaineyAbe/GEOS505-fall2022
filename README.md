@@ -10,7 +10,7 @@ Currently, I am working on using Landsat, Sentinel-2, and PlanetScope imagery to
 
 This course will help me with specific skills related to my research, including:
 - Load, sample, and analyze stacks of image bands efficiently. 
-- Create _pretty_ data visualizations and figures of results (improve _science communication_ skills). 
+- Create clear and appealing data visualizations and figures of results (improve _science communication_ skills). 
 - Develop Jupyter Notebooks and code repositories that are easy for others to follow (improve _reproducibility_ of my workflows).
  
 ### ⭐️ Personal SMART for the semester ⭐️
