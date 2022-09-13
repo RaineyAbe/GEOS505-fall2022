@@ -15,8 +15,8 @@ This course will help me with specific skills related to my research, including:
  
 ### ⭐️ Personal SMART for the semester ⭐️
 1. Be able to efficiently load, create, and manipulate spatiotemporal datasets using the `xarray` package, including data visualization tools. 
-2. Learn about and use 5 new climate datasets available for Idaho. 
-3. Learn about best practices and effective strategies for programming _sprints_ with other team members. 
+2. Learn about and use _five_ new climate datasets available for Idaho. 
+3. Develop skills in best practices and learn about effective strategies for programming _sprints_ with other team members. 
 
 | SMART | Goals |
 |---|---|
