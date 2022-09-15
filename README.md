@@ -13,7 +13,7 @@ This course will help me with specific skills related to my research, including:
 - Create clear and appealing data visualizations and figures of results (improve _science communication_ skills). 
 - Develop Jupyter Notebooks and code repositories that are easy for others to follow (improve _reproducibility_ of my workflows).
  
-### ⭐️ Personal SMART for the semester ⭐️
+### ⭐️ Personal SMART Goals for the semester ⭐️
 1. Be able to efficiently load, create, and manipulate spatiotemporal datasets using the `xarray` package, including data visualization tools. 
 2. Learn about and use _five_ new climate datasets available for Idaho. 
 3. Develop skills in best practices and learn about effective strategies for programming _sprints_ with other team members. 
